@@ -1,0 +1,13 @@
+<div class="row">
+	<div class="alert alert-info">User: {{user}}</div>
+	<button ng-click="logOut()" class="btn btn-danger btn-large">Log out</button>
+	<button ng-click="getContacts()" class="btn btn-info btn-large">Get contacts</button>
+
+	<div class="panel panel-default" ng-repeat="contact in contacts">
+		<div class="panel-heading">
+			<h3 class="panel-title"><b>Nombre</b>: {{contact.nombre}}</h3>
+		</div>
+		<div class="panel-body"><b>Telefono</b>: {{contact.numero}}</div>
+		<div class="panel-footer"><b>Email</b>{{contact.email}}</div>
+	</div>
+</div>
