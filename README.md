@@ -14,6 +14,6 @@ Use the command from console:
 
     "bower install"
 
-You can use [![Phalcon-JWT](https://github.com/carloscgo/Phalcon-JWT)] as Restful Api.
-This is a package that uses [![Phalcon Framework](https://phalconphp.com/)] for PHP applications.
+You can use [Phalcon-JWT](https://github.com/carloscgo/Phalcon-JWT) as Restful Api.
+This is a package that uses [Phalcon PHP Framework](https://phalconphp.com/) for PHP applications.
   
