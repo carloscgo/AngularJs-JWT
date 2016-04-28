@@ -17,3 +17,6 @@ Use the command from console:
 You can use [Phalcon-JWT](https://github.com/carloscgo/Phalcon-JWT) as Restful Api.
 This is a package that uses [Phalcon PHP Framework](https://phalconphp.com/) for PHP applications.
   
+Test api requests with [Postman](https://www.getpostman.com/), using the file:
+    
+    "postman_collection.json"
